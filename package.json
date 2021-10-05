@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amitbhalla/express/issues"
   },
-  "homepage": "https://github.com/amitbhalla/express#readme"
+  "homepage": "https://github.com/amitbhalla/express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
